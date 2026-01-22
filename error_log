@@ -1,0 +1,84 @@
+[20-Jan-2026 01:36:18 UTC] PHP Warning:  require(/home/dunlex/public_html/includes/config.php): Failed to open stream: No such file or directory in /home/dunlex/public_html/bootstrap.php on line 33
+[20-Jan-2026 01:36:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dunlex/public_html/includes/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dunlex/public_html/bootstrap.php:33
+Stack trace:
+#0 /home/dunlex/public_html/bootloader.php(11): require()
+#1 /home/dunlex/public_html/search.php(11): require('/home/dunlex/pu...')
+#2 {main}
+  thrown in /home/dunlex/public_html/bootstrap.php on line 33
+[20-Jan-2026 01:36:24 UTC] PHP Warning:  require(/home/dunlex/public_html/includes/config.php): Failed to open stream: No such file or directory in /home/dunlex/public_html/bootstrap.php on line 33
+[20-Jan-2026 01:36:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dunlex/public_html/includes/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dunlex/public_html/bootstrap.php:33
+Stack trace:
+#0 /home/dunlex/public_html/bootloader.php(11): require()
+#1 /home/dunlex/public_html/index.php(11): require('/home/dunlex/pu...')
+#2 {main}
+  thrown in /home/dunlex/public_html/bootstrap.php on line 33
+[20-Jan-2026 01:36:51 UTC] PHP Warning:  require(/home/dunlex/public_html/includes/config.php): Failed to open stream: No such file or directory in /home/dunlex/public_html/bootstrap.php on line 33
+[20-Jan-2026 01:36:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dunlex/public_html/includes/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dunlex/public_html/bootstrap.php:33
+Stack trace:
+#0 /home/dunlex/public_html/bootloader.php(11): require()
+#1 /home/dunlex/public_html/courses.php(11): require('/home/dunlex/pu...')
+#2 {main}
+  thrown in /home/dunlex/public_html/bootstrap.php on line 33
+[20-Jan-2026 01:36:53 UTC] PHP Warning:  require(/home/dunlex/public_html/includes/config.php): Failed to open stream: No such file or directory in /home/dunlex/public_html/bootstrap.php on line 33
+[20-Jan-2026 01:36:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dunlex/public_html/includes/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dunlex/public_html/bootstrap.php:33
+Stack trace:
+#0 /home/dunlex/public_html/bootloader.php(11): require()
+#1 /home/dunlex/public_html/courses.php(11): require('/home/dunlex/pu...')
+#2 {main}
+  thrown in /home/dunlex/public_html/bootstrap.php on line 33
+[20-Jan-2026 01:36:54 UTC] PHP Warning:  require(/home/dunlex/public_html/includes/config.php): Failed to open stream: No such file or directory in /home/dunlex/public_html/bootstrap.php on line 33
+[20-Jan-2026 01:36:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dunlex/public_html/includes/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dunlex/public_html/bootstrap.php:33
+Stack trace:
+#0 /home/dunlex/public_html/bootloader.php(11): require()
+#1 /home/dunlex/public_html/courses.php(11): require('/home/dunlex/pu...')
+#2 {main}
+  thrown in /home/dunlex/public_html/bootstrap.php on line 33
+[20-Jan-2026 01:36:56 UTC] PHP Warning:  require(/home/dunlex/public_html/includes/config.php): Failed to open stream: No such file or directory in /home/dunlex/public_html/bootstrap.php on line 33
+[20-Jan-2026 01:36:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dunlex/public_html/includes/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dunlex/public_html/bootstrap.php:33
+Stack trace:
+#0 /home/dunlex/public_html/bootloader.php(11): require()
+#1 /home/dunlex/public_html/courses.php(11): require('/home/dunlex/pu...')
+#2 {main}
+  thrown in /home/dunlex/public_html/bootstrap.php on line 33
+[20-Jan-2026 01:36:57 UTC] PHP Warning:  require(/home/dunlex/public_html/includes/config.php): Failed to open stream: No such file or directory in /home/dunlex/public_html/bootstrap.php on line 33
+[20-Jan-2026 01:36:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dunlex/public_html/includes/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dunlex/public_html/bootstrap.php:33
+Stack trace:
+#0 /home/dunlex/public_html/bootloader.php(11): require()
+#1 /home/dunlex/public_html/courses.php(11): require('/home/dunlex/pu...')
+#2 {main}
+  thrown in /home/dunlex/public_html/bootstrap.php on line 33
+[20-Jan-2026 01:36:58 UTC] PHP Warning:  require(/home/dunlex/public_html/includes/config.php): Failed to open stream: No such file or directory in /home/dunlex/public_html/bootstrap.php on line 33
+[20-Jan-2026 01:36:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dunlex/public_html/includes/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dunlex/public_html/bootstrap.php:33
+Stack trace:
+#0 /home/dunlex/public_html/bootloader.php(11): require()
+#1 /home/dunlex/public_html/courses.php(11): require('/home/dunlex/pu...')
+#2 {main}
+  thrown in /home/dunlex/public_html/bootstrap.php on line 33
+[20-Jan-2026 01:36:58 UTC] PHP Warning:  require(/home/dunlex/public_html/includes/config.php): Failed to open stream: No such file or directory in /home/dunlex/public_html/bootstrap.php on line 33
+[20-Jan-2026 01:36:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dunlex/public_html/includes/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dunlex/public_html/bootstrap.php:33
+Stack trace:
+#0 /home/dunlex/public_html/bootloader.php(11): require()
+#1 /home/dunlex/public_html/courses.php(11): require('/home/dunlex/pu...')
+#2 {main}
+  thrown in /home/dunlex/public_html/bootstrap.php on line 33
+[20-Jan-2026 01:36:59 UTC] PHP Warning:  require(/home/dunlex/public_html/includes/config.php): Failed to open stream: No such file or directory in /home/dunlex/public_html/bootstrap.php on line 33
+[20-Jan-2026 01:36:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dunlex/public_html/includes/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dunlex/public_html/bootstrap.php:33
+Stack trace:
+#0 /home/dunlex/public_html/bootloader.php(11): require()
+#1 /home/dunlex/public_html/courses.php(11): require('/home/dunlex/pu...')
+#2 {main}
+  thrown in /home/dunlex/public_html/bootstrap.php on line 33
+[20-Jan-2026 01:37:00 UTC] PHP Warning:  require(/home/dunlex/public_html/includes/config.php): Failed to open stream: No such file or directory in /home/dunlex/public_html/bootstrap.php on line 33
+[20-Jan-2026 01:37:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dunlex/public_html/includes/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dunlex/public_html/bootstrap.php:33
+Stack trace:
+#0 /home/dunlex/public_html/bootloader.php(11): require()
+#1 /home/dunlex/public_html/courses.php(11): require('/home/dunlex/pu...')
+#2 {main}
+  thrown in /home/dunlex/public_html/bootstrap.php on line 33
+[20-Jan-2026 01:37:00 UTC] PHP Warning:  require(/home/dunlex/public_html/includes/config.php): Failed to open stream: No such file or directory in /home/dunlex/public_html/bootstrap.php on line 33
+[20-Jan-2026 01:37:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dunlex/public_html/includes/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dunlex/public_html/bootstrap.php:33
+Stack trace:
+#0 /home/dunlex/public_html/bootloader.php(11): require()
+#1 /home/dunlex/public_html/courses.php(11): require('/home/dunlex/pu...')
+#2 {main}
+  thrown in /home/dunlex/public_html/bootstrap.php on line 33
